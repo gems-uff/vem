@@ -11,6 +11,8 @@ matplotlib = "*"
 wordcloud = "*"
 unidecode = "*"
 nltk = "*"
+scholarly = "*"
+pylcs = "*"
 
 [dev-packages]
 ipykernel = "*"
