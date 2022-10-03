@@ -13,6 +13,7 @@ unidecode = "*"
 nltk = "*"
 scholarly = "*"
 pylcs = "*"
+tabulate = "*"
 
 [dev-packages]
 ipykernel = "*"
