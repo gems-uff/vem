@@ -124,5 +124,6 @@ In the `papers/` folder, we have already started to put together all the papers 
 | `vem/2021/118.pdf`  | Selectable text  |
 | `vem/2021/119.pdf`  | Selectable text  |
 
+Another pending task is to add in the publications.xslx references to the pdf files.
 
 If you can collaborate somehow, please file a Pull Request with your contribution.
